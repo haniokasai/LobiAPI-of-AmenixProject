@@ -8,7 +8,7 @@
     <owners>newdelion</owners>
     <description>LobiAPI</description>
     <dependencies>
-        <dependency id="Newtonsoft.Json" version="9.0.1" targetFramework="net461" />
+        <dependency id="Newtonsoft.Json" version="9.0.1"/>
     </dependencies>
 　　</metadata>
 　　<files>
