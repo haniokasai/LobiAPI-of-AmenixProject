@@ -1,5 +1,7 @@
 # [AmenixProject]  LobiAPI
 
+[![Build status](https://ci.appveyor.com/api/projects/status/absiyrynkv81jeb2?svg=true)](https://ci.appveyor.com/project/haniokasai/lobiapi-of-amenixproject)
+
 全APIに対応"可能"
 
 ## 利用規約
