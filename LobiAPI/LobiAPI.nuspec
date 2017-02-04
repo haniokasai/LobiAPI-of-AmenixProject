@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>"a525d605-03de-4000-ae66-57e8af2c052d"</id>
+    <version>"1.0.0.0"</version>
+    <title>LobiAPI</title>
+    <authors>haniokasai</authors>
+    <owners>newdelion</owners>
+    <description>LobiAPI</description>
+    <dependencies>
+        <dependency id="Newtonsoft.Json" version="9.0.1" targetFramework="net461" />
+    </dependencies>
+　　</metadata>
+　　<files>
+    <file src="bin\Debug\LobiAPI.dll" target="Content\net461" />
+　　</files>
+</package>
